@@ -14,11 +14,6 @@ This repository documents my transition from software engineering to ML/AI engin
 - **Results**: 97.3% accuracy bird vs forest classifier in under 1 minute of training
 - **Tech Stack**: FastAI, DuckDuckGo image search, Kaggle environment
 
-### Coming Next
-- Deep Learning fundamentals
-- Computer Vision applications  
-- NLP and text processing
-- Model deployment and production
 
 ## Tech Stack
 
